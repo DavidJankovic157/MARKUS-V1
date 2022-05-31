@@ -1,0 +1,95 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+html{
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    }
+
+
+
+
+
+nav{
+    background-color: rgba(0,0,0,0.3);
+    padding-bottom: 0%;
+    font-family: 'Bebas Neue', cursive;
+    font-size: large;
+    
+  
+}
+
+#logo{
+    padding-top: 10px;
+    max-height: 50px;
+    max-width: auto;
+}
+
+#brendovi{
+    background-color: #89CFF0;
+}
+
+.page-footer{
+   background-color:#0C2D48;
+}
+
+#o_nama2{
+
+    background-color: #89CFF0;
+}
+
+#proizvodslika{
+
+    height: 230px;
+
+}
+
+#zaposlenje-slika{
+
+    width: 400px;
+    height: 300px;
+
+}
+
+#zaposlenje1{
+    background-color:#89CFF0;;
+}
+
+#brendovi-slike{
+
+    width: 400px;
+    height: 400px;
+    padding-top: 20px;
+}
+
+#slikestil1{
+    max-width: 500px;
+}
+
+p{
+
+    font-family: 'Noto Serif', serif;
+    size: 32px;
+}
+
+#naslov1{
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+#dugme{
+    font-family: 'Bebas Neue', cursive;
+    size: 34px;
+
+}
+
+#listakon{
+    font-family:'Noto Serif', serif;
+    size:42px;
+}
+
+#navigacija{
+    size: 300px;
+}
